@@ -25,8 +25,3 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connect 
 - <b>ipgeolocation.io: IP Address to Geolocation API</b> 
 
 
- 
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
