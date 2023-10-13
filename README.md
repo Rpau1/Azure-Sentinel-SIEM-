@@ -25,6 +25,7 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connect 
 - <b>ipgeolocation.io: IP Address to Geolocation API</b>
 
 <h2> Resources Used </h2>
-- [YouTube: SIEM Tutorial] (https://youtu.be/RoZeVbbZ0o0?si=YNdqQ7tfGzRDojno)
--</b>*usig the sentinel map extract querry you can bypass the manual extraction proccess</b> 
+<b>[YouTube: SIEM Tutorial] (https://youtu.be/RoZeVbbZ0o0?si=YNdqQ7tfGzRDojno)</b>
+
+<b>*usig the sentinel map querry you can bypass the manual extraction proccess.</b> 
 
