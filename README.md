@@ -27,5 +27,5 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connect 
 <h2> Resources Used </h2>
 <b>[YouTube: SIEM Tutorial] (https://youtu.be/RoZeVbbZ0o0?si=YNdqQ7tfGzRDojno)</b>
 
-<b>*usig the sentinel map querry you can bypass the manual extraction proccess.</b> 
+<b>*usig the sentinel map querry script you can bypass the manual extraction proccess.</b> 
 
