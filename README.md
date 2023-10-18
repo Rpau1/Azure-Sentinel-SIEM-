@@ -5,12 +5,14 @@ Configured Azure Sentinel(Microsoft's cloud SIEM) workbook to display global att
 
 
 <h2>Description</h2>
--The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
 
+- The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
 
--The script is used in this demo where, I setup Azure Sentinel (SIEM) and connect it to a live virtual machine in Azure acting as a Honeypot. 
--Observed live attacks (RDP Brute Force) from all around the world. 
--Used The powershell script and Kusto Query Language (KQL) to look up the attackers Geolocation information and plot it on an Azure Sentinel Map!
+- The script is used in this demo where, I setup Azure Sentinel (SIEM) and connect it to a live virtual machine in Azure acting as a Honeypot. 
+
+- Observed live attacks (RDP Brute Force) from all around the world. 
+
+- Used The powershell script and Kusto Query Language (KQL) to look up the attackers Geolocation information and plot it on an Azure Sentinel Map!
 
 map after 24hrs:
 ![sentinel final map](https://github.com/Rpau1/Azure-Sentinel-SIEM-/assets/147562929/69fcb4a5-9bd1-44b2-bd66-8e357b090860)
